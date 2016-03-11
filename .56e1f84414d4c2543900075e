@@ -1,0 +1,21 @@
+---
+time: 1457737763
+inventory:
+  "/abou/index.html":
+    md5: d8f67bad7cfe1c365d93ca931e2ed677
+    time: 1457737760
+  "/index.html":
+    md5: d8f67bad7cfe1c365d93ca931e2ed677
+    time: 1457737760
+  "/CNAME":
+    md5: 3557a36cc7a8d90664cd3a55a28f7c24
+    time: 1457737761
+  "/sitemap.xml":
+    md5: c5ef95b5fa63d0b51b69b85486dff657
+    time: 1457737761
+  "/feed.xml":
+    md5: 867fce33c11c16a19f97d9edc7a01ede
+    time: 1457737761
+  "/style.css":
+    md5: 9187a6775bdce8f1f2143accea89ba6c
+    time: 1457737761
