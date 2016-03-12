@@ -1,12 +1,12 @@
 ---
-time: 1457789199
+time: 1457796217
 inventory:
-  "/abou/index.html":
-    md5: 11dd36937b2e96e1aa046277e866488f
-    time: 1457789189
+  "/about/index.html":
+    md5: f8a0385d76b78632b61a63995d4bc9cf
+    time: 1457796215
   "/index.html":
-    md5: 11dd36937b2e96e1aa046277e866488f
-    time: 1457789189
+    md5: f8a0385d76b78632b61a63995d4bc9cf
+    time: 1457796215
   "/everything-will-happen/index.html":
     md5: 8cf859f449f597dd32a0725dba1a333f
     time: 1457789189
@@ -38,11 +38,11 @@ inventory:
     md5: 3557a36cc7a8d90664cd3a55a28f7c24
     time: 1457737761
   "/sitemap.xml":
-    md5: abe522ab859fa77d46a1fcbf88819de7
-    time: 1457789189
+    md5: 84168ac0d59f66357f996acb180e90f4
+    time: 1457796215
   "/feed.xml":
-    md5: 4636acfdb222960664982602b71bdb35
-    time: 1457789189
+    md5: 60c4e5be08a0964a636c08000d93a297
+    time: 1457796215
   "/style.css":
     md5: 9187a6775bdce8f1f2143accea89ba6c
     time: 1457737761
