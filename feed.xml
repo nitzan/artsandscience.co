@@ -3,7 +3,392 @@
   <channel>
     <title>artsandscience</title>
     <link>http://artsandscience.siteleaf.net</link>
-    <pubDate>Fri, 11 Mar 2016 23:09:21 -0000</pubDate>
+    <pubDate>Sat, 12 Mar 2016 13:26:29 -0000</pubDate>
+    
+    <item>
+      <title>Generative Products</title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/generative-products</link>
+      <pubDate>Sat, 12 Mar 2016 13:25:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/generative-products</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/1*XNLERwji8zvw1tZDtLXIdQ.jpeg&quot; alt=&quot;Op Art by Bridget Riley&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until recently that machine learning moved from medical labs (&lt;a href=&quot;http://tools.genes.toronto.edu&quot;&gt;Spanr, genomics analysis&lt;/a&gt;) and &lt;a href=&quot;http://www.google.com/patents/US8429103&quot;&gt;search algorithms enhancement&lt;/a&gt;. Google’s recent &lt;a href=&quot;http://nextbigfuture.com/2014/12/google-deep-mind-is-taking-artificial.html&quot;&gt;acquisition of Deep Mind&lt;/a&gt;, &lt;a href=&quot;https://www.reddit.com/r/IAmA/comments/fnfg3/by_request_we_are_the_ibm_research_team_that/&quot;&gt;IBM’s push of Watson&lt;/a&gt; and other &lt;a href=&quot;http://deepdreamgenerator.com&quot;&gt;viral developments&lt;/a&gt; signal a looming shift into consumer products.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As machine learning will be making its way into consumer hands there is going to be a need for design thinking to lead the way in shaping products for the consumer market.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Modern product design has established its role in linking business and strategic thinking with design; through metrics and iterative processes, businesses can now rely on strong product staff to drive revenue.&lt;/p&gt;
+
+&lt;p&gt;With new technical tools being developed and used by the most talented developers, we’re likely to start seeing consumer facing products being introduced to the market. &lt;strong&gt;If the last few years have taught us anything about digital products is that technology thinking by itself can’t grow a consumer centric business&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’re in a similar tipping point now to a time when technologists would build (full or partial versions of) products, and only later brought in design and product thinking. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The potential in this space is immense. And there are unique new ways of ideating and designing products.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Right now we got used to a certain “gravity” linking databases and content to views and visual design. Classic models of such as MVC are based on pretty much an unchallenged notion.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Deployment of a powerful codebase that can generate a set of views; neatly organized and waiting to be accessed (in a way that the user is expecting to find them)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Sets of views&lt;/h4&gt;
+
+&lt;p&gt;Personalization of content is now growing and users expect to receive nothing but relevant content. Publishers are fighting for our morning coffee news update (&lt;a href=&quot;http://qz.com/daily-brief/&quot;&gt;Daily Brief&lt;/a&gt;, &lt;a href=&quot;http://www.nytimes.com/nytnow/?nl=nytnow&amp;amp;emc=edit_nn_20150817&quot;&gt;NYT Now&lt;/a&gt;, &lt;a href=&quot;http://www.thedailybeast.com/newsletters.html&quot;&gt;Cheatsheet&lt;/a&gt;). Primarily through promises of reduced noise and high quality content. This shift is currently reserved to emails (and apps at times) but it likely to restructure online presentation (and maybe even content models themselves).&lt;/p&gt;
+
+&lt;h4&gt;Content browsing patterns&lt;/h4&gt;
+
+&lt;p&gt;We now know that users navigate content in very different ways than before. “&lt;a href=&quot;http://www.poynter.org/news/media-innovation/252632/3-takeaways-from-the-death-of-the-homepage-and-the-new-york-times-innovation-report/&quot;&gt;The death of the homepage&lt;/a&gt;” and similar texts have thought us that content is fragmented, and is becoming more and more fragmented new ways.
+New content concepts such as cards (ref: &lt;a href=&quot;http://www.trywildcard.com&quot;&gt;Wild Card&lt;/a&gt;) can reduce stories to functional units of image, copy and call to action. Users now have new expectations when searching for content. And similarly publishers now know how to monetize those new models.&lt;/p&gt;
+
+&lt;p&gt;Features such as &lt;a href=&quot;https://instantarticles.fb.com&quot;&gt;Facebook Instant Stories&lt;/a&gt; are a result of that shift, and will probably not be the last stop in this evolution of content (as discussions continue).
+Referencing The Times Innovation Report it is easy to link these kind of moves with a longer term strategy shift by publishers; building loyalty over short terms advertising gains.&lt;/p&gt;
+
+&lt;p&gt;Repackaging of content, as it happens at &lt;a href=&quot;http://www.nytimes.com/services/mobile/index.html?utm_source=feedburner&amp;amp;utm_medium=email&amp;amp;utm_campaign=Feed%253A+NewYorkTimesNews+%28New+York+Times+intl+News%29&quot;&gt;The Times&lt;/a&gt; (and &lt;a href=&quot;https://www.apple.com/news/&quot;&gt;Apple News&lt;/a&gt;) signals a shift, and introduces a more complex, contextual and elaborate ways of accessing the same content.
+Conversely, users are not wary of these new tools and expect
+more from publishers.&lt;/p&gt;
+
+&lt;p&gt;What if we could build a media site that doesn’t have a static version. There is no content tree, tags, categories et al. The data base will render content solely based on the user and their (public or private) identity.&lt;/p&gt;
+
+&lt;p&gt;Currently available APIs by services such as &lt;a href=&quot;http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/message-resonance.html&quot;&gt;Message Resonance&lt;/a&gt; by IBM Watson can determine how successful would a certain tone of message be with its recipient. Using cookies and simple Google Alerts we can yield great insights about individuals’ interests (based on publicly available data).&lt;/p&gt;
+
+&lt;p&gt;For example customized views could live in unique URLs, or better yet locally. Those could even render to print eventually. With advancements in &lt;a href=&quot;http://www.mcnallyjackson.com/print-on-demand&quot;&gt;on–demand printing&lt;/a&gt;, &lt;a href=&quot;http://www.nielsen.com/us/en/press-room/2015/2014-nielsen-music-report.html&quot;&gt;raising sales of physical products&lt;/a&gt; and &lt;a href=&quot;http://www.wired.com/2014/12/prime-now/&quot;&gt;instant deliveries&lt;/a&gt; it’s not hard to imagine a personalized newspaper rendered to print at midnight and delivered to your doorstep at 6AM.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Moving beyond media — can generative thinking be applied
+to products themselves?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The team behind “&lt;a href=&quot;http://graphics.cs.cmu.edu/projects/whatMakesParis/&quot;&gt;What Make Paris Look Like Paris&lt;/a&gt;?” used machine learning to analyze a picture of a street and determine where it’s from (Paris, London et al) . It was done through algorithmically compiling a list of
+representative means.&lt;/p&gt;
+
+&lt;p&gt;Each image fed into the algorithm is being broken down into the patches; around 20,000 for each image. Those patches are then being compared to similar snippets in the system, fitting them into predetermined data sets. As the system tries to make a &lt;/p&gt;
+
+&lt;p&gt;decision it complies a percentage of certainty in an assumption. Candidates that are likely to be false are regarded as noise and are discarded. The remaining matches are likely — but not
+definitively– considered right.&lt;/p&gt;
+
+&lt;p&gt;In order to increase certainty the system runs through iterations, checking for more distinctive characteristics, and more aggressively sifting through the noise. This iterative process through what we defined to the system is right or wrong is the very core of machine learning.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;What makes machine learning more relevant now than ever before is the affordability of very powerful computers, which are capable of sifting through vast amounts of data. When these tools are paired with strong thinking and scalable products they become very powerful.&lt;/p&gt;
+
+&lt;p&gt;In this example: the core concept was to scan Google Street View to systematically, and programmatically, define what make a street in Paris look like a street in Paris.&lt;/p&gt;
+
+&lt;p&gt;We then tell the computer look for what might be a data set we want to analyze (i.e. street sign, detail in a balcony), run those across the library you’ve built. Make assumptions (1000’s of them), run through iterations (Recursion) of those assumptions and increase the filter meter.&lt;/p&gt;
+
+&lt;p&gt;Through the process of eliminating false assumptions we’re training the algorithm to better make predictions. Which will later promote making faster decisions, and potentially making their own predictions. This is referred to as training data. &lt;a href=&quot;http://www.r2d3.us/visual-intro-to-machine-learning-part-1/&quot;&gt;These concepts are different from what we’re used to, and require a bit of new thinking.&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;The future of both media and product is going to have a lot more to do with setting frameworks for data to flow in, rather than designing a tree of pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Should Designers Care About AI?</title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/why-should-designers-care-about-ai</link>
+      <pubDate>Sat, 12 Mar 2016 13:24:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/why-should-designers-care-about-ai</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/output%20000001.jpeg&quot; alt=&quot;Output_000001 by Kynd.info&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.flickr.com/photos/kynd/23287243773/in/dateposted/&quot;&gt;output_00001 by Kynd.info&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The field of AI is complex and multi–faceted. Its challenges are likely to bring together disciplines which traditionally had little overlap. Education, psychology, math, technology, and philosophy. We don’t know what designing for AI will look like—but we do know that It will be different in just about every way from what we’re used to.&lt;/p&gt;
+
+&lt;h3&gt;Systems not Views&lt;/h3&gt;
+
+&lt;p&gt;AI–driven products will involve new workflow, different sets of moving parts, and new type of relational logic. One way to untangle this problem is to find a common, ubiquitous element in today’s digital design, and consider how likely is it to change.&lt;/p&gt;
+
+&lt;p&gt;MVC is a great place to start. The server architecture, which was invented in the 70s is so ubiquitous by now that it’s easy to underestimate how it formulates the way we think. We’re accustomed to &lt;strong&gt;designing and monetizing views&lt;/strong&gt;. The future is likely to do more with &lt;strong&gt;holistic design&lt;/strong&gt;work, and a &lt;strong&gt;larger focus on systems&lt;/strong&gt;. Once we accept this premise we can start exploring some of exciting new aspects that design for AI will entail.&lt;/p&gt;
+
+&lt;h3&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;The core of AI is machine learning. The process of design (and development) will require &lt;strong&gt;decisions on datasets *&lt;em&gt;and the *&lt;/em&gt;self–teaching mechanism itself&lt;/strong&gt;. An algorithm, however smart it may be, will only be as smart as we allow it to be. Quality data is one part, but &lt;strong&gt;presetting&lt;/strong&gt; it with the right taxonomy and functions is crucial.&lt;/p&gt;
+
+&lt;p&gt;Let’s imagine a digital product, and for the same of simplicity focus on its data inputs, rendered outputs and system’s algorithm.&lt;/p&gt;
+
+&lt;p&gt;What questions should we prepare ourselves to think about?&lt;/p&gt;
+
+&lt;h4&gt;Data&lt;/h4&gt;
+
+&lt;p&gt;What data sources are required to establish the &lt;strong&gt;logic that drives our product&lt;/strong&gt;? Can we establish a priority for those data sources (primary, secondary, and more)?&lt;/p&gt;
+
+&lt;h4&gt;Function&lt;/h4&gt;
+
+&lt;p&gt;Is that logic fixed, or agile? What are the boundaries of its elasticity? We’re used to agility in views and features (essentially Models), can we translate that to agile thinking? Our thinking and thinking of the algorithm itself?&lt;/p&gt;
+
+&lt;h4&gt;Output and Metrics&lt;/h4&gt;
+
+&lt;p&gt;What metrics would we be listening to? We know that accuracy and error rate are great ways of measuring the performance of AI.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to grade the performance of tasks that we can do (for example categorizing objects in view, or even the more classic &lt;a href=&quot;https://everything-will-happen.com/r/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTuring_test&quot;&gt;Turing test&lt;/a&gt;), &lt;strong&gt;how do we grade generative procedures and machine initiated ideas&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;How do you measure the success of an idea? Especially when a human hasn’t set the problem? (&lt;a href=&quot;https://everything-will-happen.com/r/?url=https%3A%2F%2Feverything-will-happen.com%2Feric-schmidt-and-jared-cohen-on-products-of-ai-df35b56f26eb%23.p7hmcnrun&quot;&gt;see Inventive AI&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h5&gt;Philosophy&lt;/h5&gt;
+
+&lt;p&gt;Despite being very “new” and cutting edge a lot of the guiding principles for determining a machine’s potential conciseness or capacity to learn have been front of mind for philosophers and mathematicians even before computers were digital. Some of these texts are valuable in establishing a languge and a cognitive toolset for designers and thinkers to approach the topic.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cs.princeton.edu/courses/archive/spr06/cos116/Is_The_Brains_Mind_A_Computer_Program.pdf&quot;&gt;John Searle (1990), “Is the Brain’s Mind a Computer Program”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.csee.umbc.edu/courses/471/papers/turing.pdf&quot;&gt;Alan Turing (1950), “Computing machinery and intelligence”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://philosophyfaculty.ucsd.edu/faculty/pschurchland/papers/sciam90couldamachinethink.pdf&quot;&gt;Paul M. Churchland and Patricia Smith Churchland (1990), “Could a machine think?”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: I discovered all of the above while taking a great MIT course on edX:&lt;a href=&quot;https://www.edx.org/course/philosophy-minds-machines-mitx-24-09x&quot;&gt;&lt;em&gt;Philosophy: Minds and Machines&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5&gt;Psychology&lt;/h5&gt;
+
+&lt;p&gt;Another interesting shift will be the lack of control over views. That is to say that in order to really render generative products a designer will need to surrender control to the machine, with a certain mutual understanding. That “contract” between the logic and program will need to contain a highly acute sense of the interactions we’re looking to foster.&lt;br&gt;
+We would need to understand the core of the emotional mechanism driving a product.The better we can articulate the better we could scale then. The more ambiguous we would leave them the more they could spiral out of control.&lt;/p&gt;
+
+&lt;p&gt;Another important point brought to life by &lt;a href=&quot;http://www.fastcodesign.com/3047500/can-we-design-trust-between-humans-and-artificial-intelligence&quot;&gt;Patrick Mankins&lt;/a&gt; is empathy for machines. New smarter technologies will require more trust, in its most basic form. Self driving cars or health care applications, will mean machines can empower us if we let them.&lt;/p&gt;
+
+&lt;p&gt;This is an on–going thought exercise — rather than concluding I would like to open this thread up. Please get in touch via &lt;a href=&quot;http://twitter.com/byedit&quot;&gt;Twitter&lt;/a&gt; or email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing for AI
+</title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/designing-for-ai</link>
+      <pubDate>Sat, 12 Mar 2016 13:20:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/designing-for-ai</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/1*5HJ9SGedlyiH4jiQetw0oQ.jpeg&quot; alt=&quot;Steven Siegel -- Office Building Lobby 1&quot;&gt; 
+&lt;a href=&quot;http://subjectmatterart.com/collections/steven-siegel&quot;&gt;Steven Siegel– Office Building Lobby 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Model View Controller is a server architecture model that was invented by Trygve Reenskaug in the late 70s. Originally a system to implement graphic user interfaces for desktop machine it is now the core of practically anything we refer to as digital product.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The essential purpose of MVC is to bridge the gap between the human user’s mental model and the digital model that exists in the computer. The ideal MVC solution supports the user illusion of seeing and manipulating the domain information directly. The structure is useful if the user needs to see the same model element simultaneously in different contexts and/or from different viewpoints. The figure below illustrates the idea.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/1*f060_Azpyo--3fiHUjotmg.gif&quot; alt=&quot;Origin of MVC&quot;&gt; &lt;/p&gt;
+
+&lt;p&gt;image source: &lt;a href=&quot;https://heim.ifi.uio.no/%7Etrygver/themes/mvc/mvc-index.html&quot;&gt;https://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More concretely Reenskaug wanted to illustrate complex sets of data by bridging the way humans and computers interpret data. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://heim.ifi.uio.no/%7Etrygver/2003/javazone-jaoo/MVC_pattern.pdf&quot;&gt;Further reading: The Model-View-Controller (MVC) Its Past and Present [PDF]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;MVC Today&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;mvc%20today.png&quot; alt=&quot;MVC Today&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html&quot;&gt;https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Model&lt;/h4&gt;
+
+&lt;p&gt;Model covers the core of the way an app works. The logic in which data is broken down (modeled), and how different parts of the app will interact with that information. In the context of a web app it will likely equal a database; for example an archive of tweets, wikipedia entries, address book et al.&lt;/p&gt;
+
+&lt;h4&gt;Views&lt;/h4&gt;
+
+&lt;p&gt;The visual representation of the data once it made it to the user. A view is a result of a query answered by the controller using data stored in the model. For example a web page or a confirmation screen in an app.&lt;/p&gt;
+
+&lt;h4&gt;Controller&lt;/h4&gt;
+
+&lt;p&gt;The controller is the link between the user and the system (and also the core of the initial mission set by Reenskaug). A controller will respond to a query by executing a predetermined set of actions. &lt;/p&gt;
+
+&lt;p&gt;For example ask the database for the information based on certain filers and then process that data to a view for the user. e.g. what did user @byedit tweet at 3:11 EST on Dec 15th? will render &lt;a href=&quot;https://twitter.com/byedit/status/676857227723034624&quot;&gt;https://twitter.com/byedit/status/676857227723034624&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Further reading: &lt;a href=&quot;https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html&quot;&gt;Apple Developer&lt;/a&gt;
+/ &lt;a href=&quot;http://blog.codinghorror.com/understanding-model-view-controller/&quot;&gt;Coding Horror&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;It is important to state the obvious&lt;/strong&gt;:
+&lt;strong&gt;MVC defines and drives our perception of what is a digital product. It anchors the way design is taught and thought of&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The diagram below is a simplistic view of an average design and development team, mapped to an MVC model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/design%20for%20mvc.png&quot; alt=&quot;Design for MVC&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;MVC, in its current format, can’t handle new technologies such as machine learning and artificial intelligence. These new environments will require new and far more complex architectures (MVC shortcomings are already apparent).
+For design this is likely to be as much of a defining experience as the shift from print to digital. It is fascinating to think about the fact that we’re reaching a point where we will be designing systems, quite literally, instead of views.&lt;/p&gt;
+
+&lt;p&gt;It is hard to illustrate the flow of data in a product that’s completely driven by AI, as this is still a big variable, but I will make a fair attempt.
+An MVC model has a timeline. Start. A query is asked. Controller engages the model to capture data and render a view. End.&lt;/p&gt;
+
+&lt;p&gt;We can conceptually illustrate a machine learning system as a puddle. In its center is the core logic; the algorithm and the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/design%20for%20ai.png&quot; alt=&quot;Design for AI&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;A query will start a ripple effect. And as the machine processes data it learns. Each circle in that ripple means better accuracy, more targeted assumptions made by the machine and most importantly better value for the user.&lt;/p&gt;
+
+&lt;p&gt;That single piece of design will need to encapsulate logic, data sets, goals, views and a lot more. This metaphor reinforces the notion of depth. The deeper the logic the better the reach of ripple effect. And more value rendered for the user. On the same token, any discrepancies in the that logic will be multiplied and will eventually render a product non–usable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a brand new way of thinking about products, and design. Type, color, UI will be as crucial then as they are now but without deep understanding of the problem a we won’t be able to conceive the appropriate depth of logic.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything Will Happen</title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/everything-will-happen</link>
+      <pubDate>Sat, 12 Mar 2016 13:19:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/everything-will-happen</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/everything-will-happen.jpeg&quot; alt=&quot;Theo van Doesburg. Counter-Composition VI 1925&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;If the internet taught us anything is how to get things done.
+The death of long, cumbersome waterfall practices and the birth of the quick and iterative agile methodology is core to countless dollars changing hands in and around digital products.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The core concept is pretty simple: Thinking – Idea – Build – Traction – Success&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Thinking&lt;/h4&gt;
+
+&lt;p&gt;All ideas come from exploration. In the course of which we might link previous knowledge with new experiences. Curiosity around a topic will often trigger further reading, new conversations and independent exploration. Those seeds will wait for new motivation to trigger an idea. Experience and professional expertise will then help us predict if its worth committing to.&lt;/p&gt;
+
+&lt;h4&gt;Idea&lt;/h4&gt;
+
+&lt;p&gt;After a certain amount of exploration we will hopefully get to a meaningful place, mature enough to harvest. Where research will become applied and targeted at what will be required to execute the idea (an understanding of the sector and logistical considerations among others things).
+Evaluating an idea is in itself an art and a science, which is beyond the scope of this piece (and is what makes VCs, CEOs and strategies good at what they do).&lt;/p&gt;
+
+&lt;h4&gt;Build&lt;/h4&gt;
+
+&lt;p&gt;Bootstrapped, or financed, an MVP will need to be built. The goal is to prove the concept. First internally with the team and then later in the wild through various stages of beta testings.
+Agile cycle of design, developments and adjustment will pave the way for mass traction. Which will prove a product’s readiness for the market.&lt;/p&gt;
+
+&lt;h4&gt;Traction&lt;/h4&gt;
+
+&lt;p&gt;A lot has gone into the pot by now. The founders are likely to have bet their savings on the success of this idea, engineers and designers might have been promised equity, and seeds have been planted with VCs.
+The team lives the product 24 / 7 — promoting it with as many people as possible. The goal is aggressive marketing, manually getting the product with as many people possible, showing numbers where it matters.&lt;/p&gt;
+
+&lt;h4&gt;Success&lt;/h4&gt;
+
+&lt;p&gt;This stage could have many different faces, but on a conceptual level the importance of this step is validation. The company may very well be running on the fumes of the core hypothesis at this point.&lt;/p&gt;
+
+&lt;p&gt;If validated – funding will come in, people will start getting paid, alarm bells will go off and the business will reach a healthier place. The alternatives are that the idea failed, or that the company is sold.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Sustainability of Thinking&lt;/h3&gt;
+
+&lt;p&gt;This raises a question of sustainability.
+If we accept that we only have a certain stock of thinking in us (individually and as an industry) then by extension we need to use it in the most sustainable way.&lt;/p&gt;
+
+&lt;p&gt;Aggressive cycles of success and failures yield short lived businesses, but more importantly short lived thinking.
+This becomes more urgent when we begin to consider the amount of designing and building that we as an industry have been producing.&lt;/p&gt;
+
+&lt;p&gt;Anything that we can physically think of, will be built. Thinking of an idea, makes it a reality.
+This notion challenges the taxonomy under which we examine ideas and build products.&lt;/p&gt;
+
+&lt;p&gt;If we no longer need to be first, we essentially remove time from a product’s cycle.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Can we iterate our thinking rather than on a hard coded solution?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;New technologies and products that use machine learning show us a future where a human needn’t code each and every outcome. Machines can make assumptions and will require much deeper thinking.&lt;/p&gt;
+
+&lt;p&gt;MVC based products will be replaced by far longer lasting paradigms.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We know that technology is getting better, smaller and cheaper. Companies that focus on short term gains through nothing more than MVPs, manual traction and short financial gains make themselves obsolete in this new reality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a graph where x represents time and y is thinking — could it be that we only started scratching the surface of what’s possible? The urgency to build, before anyone else will, made us move from thinking to building too soon.&lt;/p&gt;
+
+&lt;p&gt;Can come up with new thinking paradigms that can live up to technologies we haven’t built yet (but we know are coming)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro To Soft Technology</title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/intro-to-soft-technology</link>
+      <pubDate>Sat, 12 Mar 2016 13:18:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/intro-to-soft-technology</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/1*0oOLcUjK4uW-Vgct5LDjMQ.jpeg&quot; alt=&quot;1*0oOLcUjK4uW-Vgct5LDjMQ&quot;&gt; &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Hard technology makes us subservient, Soft technology puts us in charge&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;(Norman, D. A., &amp;amp; Dunaeff, T.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To understand soft technology and its intent we should first understand hard technology.&lt;/p&gt;
+
+&lt;p&gt;Traditional definitions of soft and hard technology differ depending on who you ask. Some link the physical nature of the technology to the taxonomy.Logistics and machinery is hard technology, and software, processes and production techniques as soft.&lt;/p&gt;
+
+&lt;p&gt;Dron, J., Reiners, T., &amp;amp; Gregory, S. (2011) claim soft technology is as an abstract notion that “exists mainly in people’s heads”&lt;/p&gt;
+
+&lt;p&gt;They use the term for all ephemeral and non–executional abilities required to produce a solution. And hard technologies as the conversion of those notions into usable systems. For example building a bridge will fall under hard technology. Writing an email, or entering a wikipedia entry will be soft technology.&lt;/p&gt;
+
+&lt;p&gt;This is of course easy to challenge in a world where an increasing portion of our lives (the products that fill them) is digital. Based on the notion that technologies are assemblies, Dron elal claim that what makes a technology soft is the fact that the orchestration of the phenomena is &amp;ldquo;undertaken by a human&amp;rdquo;, whereas in hard technologies it has been built into the machine itself.&lt;/p&gt;
+
+&lt;p&gt;When filtered through the intent: a machine has the sole purpose of completing a task, efficiently and quickly.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;soft technologies are filled with latent possibilities and potentials, enabling many creative and flexible uses, whether they are human processes or embodied in machines; hard technologies are concerned with efficiency, replicability and the elimination of errors&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Focusing on the intent reveals a more holistic definition. In the world we live in now, limitation to execution are known to expire. 
+The pace in which we invent new methods, and make existing ones affordable is staggering. Focusing on the train of thought&amp;ndash;as opposed to stops along the way&amp;ndash;makes thinking salable and sustainable.&lt;/p&gt;
+
+&lt;p&gt;Hard technologies are the accumulated wisdom from natural science and physical worlds. And soft technologies then extend knowledge from the humanities, namely all resulting thoughts, ideologies, emotions and movements. In this definition hard technology is the result of a soft one.
+In other words hard technology is the executed solution, and soft is the thinking that lead to it; in some cases this might compute to design (soft) and development (hard). More generally, this raises the question: what’s in a solution? or rather what is the problem? What comes first, and do we create a need based on our technological abilityies?&lt;/p&gt;
+
+&lt;p&gt;Another interesting dimension is the tolerability of a system for errors.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Soft technologies enable creativity and flexibility; Hard technologies provide freedom from error, speed and efficiency&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To extend this notion – all scenarios in a hard technology system have been accounted for and designed for by a human. There is no room for error, nor is there room for creativity beyond what the system allows for. This type of constraint was of course a necessity when computer systems were first introduced to our daily lives, but this time has now passed. We needed computers to gain our trust, so we’d feel comfortable about a machine landing jets or monitor our heart activity for anomalies.&lt;/p&gt;
+
+&lt;p&gt;That level of micro management is no longer required. Systems have now gotten to a point where they can train themselves, cross delegate tasks and support us in ways we couldn&amp;rsquo;t even imagine being possible 5 years ago.&lt;/p&gt;
+
+&lt;p&gt;Machine learning systems can now generate highly complex logical structures to answer a single question.On the fly. Those structures will then disappear when a query is answered. &lt;/p&gt;
+
+&lt;p&gt;This is a huge technological shift. All answers today are answered by an algorithm following a predetermined set of turns, written by a human.&lt;/p&gt;
+
+&lt;p&gt;Are soft and herd technology mutually exclusive?&lt;/p&gt;
+
+&lt;p&gt;No solution is made out of just one, and arguably all things are a product of both. What is interesting is that in this point in time flare points (soft) are slowly moving away from being human controlled to being generative and programmable.&lt;/p&gt;
+
+&lt;p&gt;The balance between the soft and the hard systems is changing, and this tension is likely to request new type of thinking from us.&lt;/p&gt;
+
+&lt;p&gt;We are nearing to solving all efficiency related, computational problems. What do we do when we reach that technology saturation point?&lt;/p&gt;
+
+&lt;p&gt;How do we best harvest years of research and development and make sure that we channel the right kind of thinking through our new amazing machines? How can we think beyond pixels on screens, taps on phones and projections on walls? &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;There has been some thinking done around a longer arching technological approach.&lt;/p&gt;
+
+&lt;p&gt;The Slow Web advocates for responsibility in consumption and independence from instant gratification. It clearly draws inspiration from the world of mindfulness, portraying the franticness of our lives as the enemy, and allows forgiveness for errors, and a bit of tardiness.&lt;/p&gt;
+
+&lt;p&gt;The movement cites The Slow Food movement as an inspiration and believes that their view is the right way to progress with technology, as opposed to behind it.&lt;/p&gt;
+
+&lt;p&gt;Intent driven technology by definition, even is not knowingly, supports a more balanced lifestyle. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soft Offering: Foreword </title>
+      <link>http://artsandscience.siteleaf.net/everything-will-happen/intro</link>
+      <pubDate>Sat, 12 Mar 2016 13:14:00 +0000</pubDate>
+      <author>Nitzan Hermon</author>
+      <guid>http://artsandscience.siteleaf.net/everything-will-happen/intro</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/EzraStoller-TWA-Terminal-Interior-EeroSaarinen-62-520x300.jpeg&quot; alt=&quot;Image by Ezra Stoller&quot;&gt;&lt;/p&gt;
+
+&lt;h4&gt;&amp;ldquo;Although it should be read as science fiction, current trends in miniaturization and price reduction almost guarantee that many of notions discussed will actually happen in the near future&amp;rdquo;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Alan C. Kay–Xerox Palo Alto Research Center–1972&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The nature of this text is philosophical. At times Utopian. The point of the thinking is to provoke a different approach to designing technology. More responsible, sustainable and conducive to our future.&lt;/p&gt;
+
+&lt;p&gt;Moving focus from abilities, to intent, from efficiency to merit. &lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

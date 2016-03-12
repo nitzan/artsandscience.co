@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>artsandscience | Designing for AI
+</title>
+  <link rel="alternate" type="application/rss+xml" href="http://artsandscience.siteleaf.net/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+
+  <div class="wrap">
+
+    <header class="primary-header">
+      <h1 class="site-title"><a href="/">artsandscience</a></h1>
+
+      <ul class="page-menu">
+      
+        <li><a href="/">About</a></li>
+      
+        <li><a href="/everything-will-happen">Everything Will Happen</a></li>
+      
+      </ul>
+    </header>
+
+    <section class="content">
+
+      <h1 class="content-title">Designing for AI
+</h1>
+
+      
+
+      <p><img src="/assets/1*5HJ9SGedlyiH4jiQetw0oQ.jpeg" alt="Steven Siegel -- Office Building Lobby 1"> 
+<a href="http://subjectmatterart.com/collections/steven-siegel">Steven Siegel– Office Building Lobby 1</a></p>
+
+<p>Model View Controller is a server architecture model that was invented by Trygve Reenskaug in the late 70s. Originally a system to implement graphic user interfaces for desktop machine it is now the core of practically anything we refer to as digital product.</p>
+
+<blockquote>
+<p>The essential purpose of MVC is to bridge the gap between the human user’s mental model and the digital model that exists in the computer. The ideal MVC solution supports the user illusion of seeing and manipulating the domain information directly. The structure is useful if the user needs to see the same model element simultaneously in different contexts and/or from different viewpoints. The figure below illustrates the idea.</p>
+</blockquote>
+
+<p><img src="/assets/1*f060_Azpyo--3fiHUjotmg.gif" alt="Origin of MVC"> </p>
+
+<p>image source: <a href="https://heim.ifi.uio.no/%7Etrygver/themes/mvc/mvc-index.html">https://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html</a></p>
+
+<p>More concretely Reenskaug wanted to illustrate complex sets of data by bridging the way humans and computers interpret data. </p>
+
+<p><a href="https://heim.ifi.uio.no/%7Etrygver/2003/javazone-jaoo/MVC_pattern.pdf">Further reading: The Model-View-Controller (MVC) Its Past and Present [PDF]</a></p>
+
+<h3>MVC Today</h3>
+
+<p><img src="mvc%20today.png" alt="MVC Today"></p>
+
+<p>Source: <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html">https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html</a></p>
+
+<h4>Model</h4>
+
+<p>Model covers the core of the way an app works. The logic in which data is broken down (modeled), and how different parts of the app will interact with that information. In the context of a web app it will likely equal a database; for example an archive of tweets, wikipedia entries, address book et al.</p>
+
+<h4>Views</h4>
+
+<p>The visual representation of the data once it made it to the user. A view is a result of a query answered by the controller using data stored in the model. For example a web page or a confirmation screen in an app.</p>
+
+<h4>Controller</h4>
+
+<p>The controller is the link between the user and the system (and also the core of the initial mission set by Reenskaug). A controller will respond to a query by executing a predetermined set of actions. </p>
+
+<p>For example ask the database for the information based on certain filers and then process that data to a view for the user. e.g. what did user @byedit tweet at 3:11 EST on Dec 15th? will render <a href="https://twitter.com/byedit/status/676857227723034624">https://twitter.com/byedit/status/676857227723034624</a></p>
+
+<p>Further reading: <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html">Apple Developer</a>
+/ <a href="http://blog.codinghorror.com/understanding-model-view-controller/">Coding Horror</a></p>
+
+<hr>
+
+<p><strong>It is important to state the obvious</strong>:
+<strong>MVC defines and drives our perception of what is a digital product. It anchors the way design is taught and thought of</strong>.</p>
+
+<p>The diagram below is a simplistic view of an average design and development team, mapped to an MVC model.</p>
+
+<p><img src="/assets/design%20for%20mvc.png" alt="Design for MVC"></p>
+
+<p>MVC, in its current format, can’t handle new technologies such as machine learning and artificial intelligence. These new environments will require new and far more complex architectures (MVC shortcomings are already apparent).
+For design this is likely to be as much of a defining experience as the shift from print to digital. It is fascinating to think about the fact that we’re reaching a point where we will be designing systems, quite literally, instead of views.</p>
+
+<p>It is hard to illustrate the flow of data in a product that’s completely driven by AI, as this is still a big variable, but I will make a fair attempt.
+An MVC model has a timeline. Start. A query is asked. Controller engages the model to capture data and render a view. End.</p>
+
+<p>We can conceptually illustrate a machine learning system as a puddle. In its center is the core logic; the algorithm and the design.</p>
+
+<p><img src="/assets/design%20for%20ai.png" alt="Design for AI"></p>
+
+<p>A query will start a ripple effect. And as the machine processes data it learns. Each circle in that ripple means better accuracy, more targeted assumptions made by the machine and most importantly better value for the user.</p>
+
+<p>That single piece of design will need to encapsulate logic, data sets, goals, views and a lot more. This metaphor reinforces the notion of depth. The deeper the logic the better the reach of ripple effect. And more value rendered for the user. On the same token, any discrepancies in the that logic will be multiplied and will eventually render a product non–usable.</p>
+
+<p><strong>This is a brand new way of thinking about products, and design. Type, color, UI will be as crucial then as they are now but without deep understanding of the problem a we won’t be able to conceive the appropriate depth of logic.</strong></p>
+
+
+      
+        
+
+        
+          <strong>Tags (0 tags)</strong>
+          <ul>
+            
+          </ul>
+        
+
+      
+
+      
+        <p><a href="/everything-will-happen">&larr; Back to Everything Will Happen</a></p>
+      
+
+    </section><!-- /content -->
+  </div><!-- /wrap -->
+</body>
+</html>

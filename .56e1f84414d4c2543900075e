@@ -1,21 +1,75 @@
 ---
-time: 1457737763
+time: 1457789199
 inventory:
   "/abou/index.html":
-    md5: d8f67bad7cfe1c365d93ca931e2ed677
-    time: 1457737760
+    md5: 11dd36937b2e96e1aa046277e866488f
+    time: 1457789189
   "/index.html":
-    md5: d8f67bad7cfe1c365d93ca931e2ed677
-    time: 1457737760
+    md5: 11dd36937b2e96e1aa046277e866488f
+    time: 1457789189
+  "/everything-will-happen/index.html":
+    md5: 8cf859f449f597dd32a0725dba1a333f
+    time: 1457789189
+  "/everything-will-happen/generative-products/index.html":
+    md5: 0d0b0e7a00190384ae37002d157ceb2d
+    time: 1457789189
+  "/everything-will-happen/why-should-designers-care-about-ai/index.html":
+    md5: 74f9f1885c6329341c7a088622961ca6
+    time: 1457789189
+  "/everything-will-happen/designing-for-ai/index.html":
+    md5: 1e84535655aeddfbb8f67c774497d517
+    time: 1457789189
+  "/everything-will-happen/everything-will-happen/index.html":
+    md5: 0ebafc0e6fc447ac7bf31f6fded55fff
+    time: 1457789189
+  "/everything-will-happen/intro-to-soft-technology/index.html":
+    md5: bf4d1540d37cf9b625d9d6ca07db2866
+    time: 1457789189
+  "/everything-will-happen/intro/index.html":
+    md5: cba369e72e305f0597456bed9636c0d9
+    time: 1457789189
+  "/everything-will-happen/archive/index.html":
+    md5: b0293cf06d66dc4e3394aeea49d3f1e5
+    time: 1457789189
+  "/everything-will-happen/tags/index.html":
+    md5: f161f423ecbf6db9a96b25db92702ee1
+    time: 1457789189
   "/CNAME":
     md5: 3557a36cc7a8d90664cd3a55a28f7c24
     time: 1457737761
   "/sitemap.xml":
-    md5: c5ef95b5fa63d0b51b69b85486dff657
-    time: 1457737761
+    md5: abe522ab859fa77d46a1fcbf88819de7
+    time: 1457789189
   "/feed.xml":
-    md5: 867fce33c11c16a19f97d9edc7a01ede
-    time: 1457737761
+    md5: 4636acfdb222960664982602b71bdb35
+    time: 1457789189
   "/style.css":
     md5: 9187a6775bdce8f1f2143accea89ba6c
     time: 1457737761
+  "/assets/EzraStoller-TWA-Terminal-Interior-EeroSaarinen-62-520x300.jpeg":
+    md5: 95a504c8f3ef0a47ff03bffcc8f5ceed
+    time: 1457789190
+  "/assets/1*0oOLcUjK4uW-Vgct5LDjMQ.jpeg":
+    md5: 1ad27c028fa37d160b430216c8867eed
+    time: 1457789190
+  "/assets/everything-will-happen.jpeg":
+    md5: 52167982bf152af597a22d24262e02e5
+    time: 1457789190
+  "/assets/1*5HJ9SGedlyiH4jiQetw0oQ.jpeg":
+    md5: 832cb5c5306d95652aaf3f0aaead2ab4
+    time: 1457789190
+  "/assets/output 000001.jpeg":
+    md5: d5ecbff0d414373d87e45701609ba602
+    time: 1457789190
+  "/assets/1*XNLERwji8zvw1tZDtLXIdQ.jpeg":
+    md5: df4d220bdb65671bd2ff1046959dac23
+    time: 1457789190
+  "/assets/design for ai.png":
+    md5: afb801c79b3e4014e3750c4755dfd3ac
+    time: 1457789190
+  "/assets/design for mvc.png":
+    md5: bd600e94db4c03104a447cac53937ade
+    time: 1457789190
+  "/assets/1*f060_Azpyo--3fiHUjotmg.gif":
+    md5: 64c8ab7a5e2f0933aadf7b095c8c7680
+    time: 1457789190
